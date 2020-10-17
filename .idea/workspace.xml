@@ -11,17 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8521c2e9-36e9-43d1-af54-1ddccdb0a0a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/roveroniandrea/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PES_Distribuzioni/com/roveroniandrea/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PES_Distribuzioni/com/roveroniandrea/pes/Bernoulli.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PES_Distribuzioni/com/roveroniandrea/pes/Binomial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PES_Distribuzioni/com/roveroniandrea/pes/Distribution$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PES_Distribuzioni/com/roveroniandrea/pes/Distribution$EventOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PES_Distribuzioni/com/roveroniandrea/pes/Distribution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PES_Distribuzioni/com/roveroniandrea/pes/Hypergeometric.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PES_Distribuzioni/com/roveroniandrea/pes/PesUtility.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PES_Distribuzioni/com/roveroniandrea/pes/Poisson.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +57,6 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.roveroniandrea.Main" />
       <module name="PES_Distribuzioni" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -99,7 +90,7 @@
       <updated>1602921726867</updated>
       <workItem from="1602921728067" duration="10965000" />
       <workItem from="1602932821684" duration="1396000" />
-      <workItem from="1602946749130" duration="308000" />
+      <workItem from="1602946749130" duration="690000" />
     </task>
     <task id="LOCAL-00001" summary="Various distributions">
       <created>1602932372420</created>
@@ -122,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602946835836</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="deleted out">
+      <created>1602947070829</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602947070829</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,13 +145,18 @@
     <MESSAGE value="Various distributions" />
     <MESSAGE value="Distributions" />
     <MESSAGE value="fix errore repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix errore repo" />
+    <MESSAGE value="deleted out" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted out" />
   </component>
   <component name="WindowStateProjectService">
     <state x="435" y="188" key="#Notifications" timestamp="1602932442764">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="435" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1602932442764" />
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602947379846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1602947379846" />
     <state x="450" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602947036763">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -170,22 +173,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602932882651" />
-    <state width="1323" height="409" key="GridCell.Tab.0.bottom" timestamp="1602932788116">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1602947175965">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="409" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602932788116" />
-    <state width="1323" height="409" key="GridCell.Tab.0.center" timestamp="1602932788116">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602947175965" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1602947175965">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="409" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602932788116" />
-    <state width="1323" height="409" key="GridCell.Tab.0.left" timestamp="1602932788115">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602947175965" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1602947175965">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="409" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602932788115" />
-    <state width="1323" height="409" key="GridCell.Tab.0.right" timestamp="1602932788116">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602947175965" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1602947175965">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="409" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602932788116" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602947175965" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1602946800771">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
