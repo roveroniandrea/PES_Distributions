@@ -6,22 +6,22 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8521c2e9-36e9-43d1-af54-1ddccdb0a0a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PES_Distribuzioni/com/roveroniandrea/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PES_Distribuzioni/com/roveroniandrea/pes/Bernoulli.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PES_Distribuzioni/com/roveroniandrea/pes/Binomial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PES_Distribuzioni/com/roveroniandrea/pes/Distribution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PES_Distribuzioni/com/roveroniandrea/pes/Distribution$EventOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PES_Distribuzioni/com/roveroniandrea/pes/Distribution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PES_Distribuzioni/com/roveroniandrea/pes/Hypergeometric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PES_Distribuzioni/com/roveroniandrea/pes/PesUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PES_Distribuzioni/com/roveroniandrea/pes/Poisson.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +72,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
@@ -88,7 +99,7 @@
       <updated>1602921726867</updated>
       <workItem from="1602921728067" duration="10965000" />
       <workItem from="1602932821684" duration="1396000" />
-      <workItem from="1602946749130" duration="52000" />
+      <workItem from="1602946749130" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="Various distributions">
       <created>1602932372420</created>
@@ -104,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602935668686</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix errore repo">
+      <created>1602946835836</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602946835836</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,13 +146,18 @@
     </ignored-roots>
     <MESSAGE value="Various distributions" />
     <MESSAGE value="Distributions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Distributions" />
+    <MESSAGE value="fix errore repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix errore repo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="435" y="188" key="#Notifications" timestamp="1602932442764">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="435" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1602932442764" />
+    <state x="450" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602947036763">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="450" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1602947036763" />
     <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1602929886336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -167,10 +190,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602946800771" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602932430758">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602946970865">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602932430758" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602946970865" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602932685192">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
