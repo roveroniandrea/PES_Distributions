@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8521c2e9-36e9-43d1-af54-1ddccdb0a0a6" name="Default Changelist" comment="" />
+    <list default="true" id="8521c2e9-36e9-43d1-af54-1ddccdb0a0a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1izsOowDSmcsGPwJ7muJdK3VSmQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -48,6 +51,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -83,7 +87,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602921726867</updated>
       <workItem from="1602921728067" duration="10965000" />
-      <workItem from="1602932821684" duration="36000" />
+      <workItem from="1602932821684" duration="1396000" />
+      <workItem from="1602946749130" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="Various distributions">
       <created>1602932372420</created>
@@ -92,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602932372420</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Distributions">
+      <created>1602935668686</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602935668686</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,8 +123,12 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="Various distributions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Various distributions" />
+    <MESSAGE value="Distributions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Distributions" />
   </component>
   <component name="WindowStateProjectService">
     <state x="435" y="188" key="#Notifications" timestamp="1602932442764">
@@ -127,6 +143,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="212" y="64" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1602931115518" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1602932882651">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602932882651" />
     <state width="1323" height="409" key="GridCell.Tab.0.bottom" timestamp="1602932788116">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -143,10 +163,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="409" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602932788116" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1602932856649">
+    <state x="184" y="9" key="SettingsEditor" timestamp="1602946800771">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602932856649" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602946800771" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602932430758">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
